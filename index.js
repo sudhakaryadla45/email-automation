@@ -69,13 +69,7 @@ const getAnniversaryData = async () => {
 
 
 
-function Person(Name, DOB, Email, Marr, Anv) {
-    this.name = Name;
-    this.dob = DOB;
-    this.email = Email;
-    this.marriageDate = Marr;
-    this.anniversary = Anv;
-}
+
 
 
 
